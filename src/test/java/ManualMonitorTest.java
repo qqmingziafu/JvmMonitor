@@ -10,6 +10,7 @@ public class ManualMonitorTest {
 
     @Test
     public void ManualMonitor() {
+
         JSONObject jsonObject = new JSONObject();
         jsonObject.put("key", "k");
         jsonObject.put("value", "v");
